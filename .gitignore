@@ -1,0 +1,16 @@
+tags
+cscope.*
+CMakeLists.txt.u*
+#Default CLion cmake based build folder
+cmake-build*
+.idea
+
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
